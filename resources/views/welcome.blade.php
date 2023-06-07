@@ -18,13 +18,13 @@
             body {
                 font-family: 'Nunito', sans-serif;
             }
-            
+
             h1{
                 text-align: center;
             }
         </style>
     </head>
     <body>
-        <h1>Ciao a tutti!</h1>
+        <h1>Hello world!</h1>
     </body>
 </html>
